@@ -1,0 +1,20 @@
+{
+	"name": "ika.jvectormap",
+	"version": "1.2.2",
+	"description": "jQuery interactive vector maps",
+	"author": "Kirill Lebedev <echo.bjornd@gmail.com>",
+	"main": "jquery-jvectormap-1.2.2.min.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kakirigi/ika.jvectormap"
+	},
+	"bugs": {
+		"url": "hhttps://github.com/kakirigi/ika.jvectormap/issues"
+	},
+	"keywords": [
+		"jquery",
+		"vector",
+		"maps"
+	],
+	"license": "MIT"
+}
